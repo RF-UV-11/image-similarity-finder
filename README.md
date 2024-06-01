@@ -80,7 +80,7 @@ find_and_plot_most_similar_image(input_image_path, base_directory)
 ```
 
 After running the script, you should see an output indicating the most similar image and a plot displaying both the input image and the matched image.
-![Output](https://github.com/RF-UV-11/Handwritten-Math-Equation-Solver/blob/main/image-similarity-finder/output/output.png)
+![Output](https://github.com/RF-UV-11/image-similarity-finder/blob/main/output/output.png)
 ## 📜 Code Explanation
 
 ### 🔄 `load_and_preprocess_image(img_path, target_size=(224, 224))`
